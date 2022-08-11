@@ -1,0 +1,13 @@
+# Query: --page-bg-color
+# ContextLines: 1
+
+2 results - 1 file
+
+src/css/style.css:
+  14    --main-text-color: #2c3e50;
+  15:   --page-bg-color: rgba(0,0,0,0);
+  16    --button-text-color: white;
+
+  38    color: var(--main-text-color);
+  39:   background-color: var(--page-bg-color);
+  40  }
